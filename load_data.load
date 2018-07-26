@@ -6,4 +6,3 @@ load data local INFILE 'part.tbl' INTO TABLE part FIELDS TERMINATED BY '|';
 load data local INFILE 'partsupp.tbl' INTO TABLE partsupp FIELDS TERMINATED BY '|';
 load data local INFILE 'orders.tbl' INTO TABLE orders FIELDS TERMINATED BY '|';
 load data local INFILE 'lineitem.tbl' INTO TABLE lineitem FIELDS TERMINATED BY '|';
-

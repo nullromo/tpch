@@ -9,11 +9,12 @@ use Time::HiRes qw(gettimeofday tv_interval);
 
 my ($transaction, $database) = ($ARGV[0], $ARGV[1]);
 if( !defined($transaction) ){
-	print("input transaction file is not specified\n");
+	print("input transaction file is not specified\nusage: get_query_time <transaction> <database>\n");
 	exit(1);
 }
 if( !defined($database) ){
-    print("database not specified\n");
+    print("database not specified\nusage: get_query_time <transaction> <database>\n");
+	exit(1);
 }
 
 my $starttime = [gettimeofday()];
