@@ -18,8 +18,4 @@
 
 - `restart_mysql.pl` restarts the mysql server
 
-
-
-
-
-- `tablescanquery.pl` generates scan query for all tables
+- `scan_all_tables.sql` sequentially reads all the tables
