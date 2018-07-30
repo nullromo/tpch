@@ -1,9 +1,9 @@
 #!/usr/bin/perl -w
 
 sub myexec {
-	my ($cmd) = @_;
-	print "\n\$> ". $cmd . "\n";
-	system($cmd);
+    my ($cmd) = @_;
+    print "\n\$> ". $cmd . "\n";
+    system($cmd);
 }
 
 sub test {

@@ -1,0 +1,183 @@
+query: 1
+=== runtime ===
+wall clock time: 8.116949
+user time: 0
+system time: 0
+user time for all children: 0
+system time for all children: 0.02
+others(I/O): 8.096949 second
+=== runtime ===
+wall clock time: 0.146676
+user time: 0
+system time: 0
+user time for all children: 0
+system time for all children: 0.01
+others(I/O): 0.136676 second
+query: 1
+=== runtime ===
+wall clock time: 75.371346
+user time: 0.01
+system time: 0
+user time for all children: 0
+system time for all children: 0.02
+others(I/O): 75.341346 second
+query: 2
+=== runtime ===
+wall clock time: 3.636357
+user time: 0.01
+system time: 0
+user time for all children: 0
+system time for all children: 0.02
+others(I/O): 3.606357 second
+query: 3
+=== runtime ===
+wall clock time: 231.54938
+user time: 0.01
+system time: 0
+user time for all children: 0.01
+system time for all children: 0.02
+others(I/O): 231.509380 second
+query: 4
+=== runtime ===
+wall clock time: 48.063663
+user time: 0.01
+system time: 0
+user time for all children: 0
+system time for all children: 0.02
+others(I/O): 48.033663 second
+query: 5
+=== runtime ===
+wall clock time: 124.55974
+user time: 0
+system time: 0
+user time for all children: 0.01
+system time for all children: 0.02
+others(I/O): 124.529740 second
+query: 6
+=== runtime ===
+wall clock time: 54.31545
+user time: 0.01
+system time: 0
+user time for all children: 0.01
+system time for all children: 0.02
+others(I/O): 54.275450 second
+query: 7
+=== runtime ===
+wall clock time: 108.475126
+user time: 0.01
+system time: 0
+user time for all children: 0
+system time for all children: 0.02
+others(I/O): 108.445126 second
+query: 8
+=== runtime ===
+wall clock time: 149.332131
+user time: 0.01
+system time: 0
+user time for all children: 0
+system time for all children: 0.02
+others(I/O): 149.302131 second
+query: 9
+=== runtime ===
+wall clock time: 456.836549
+user time: 0
+system time: 0
+user time for all children: 0
+system time for all children: 0.02
+others(I/O): 456.816549 second
+query: 10
+=== runtime ===
+wall clock time: 58.230692
+user time: 0
+system time: 0
+user time for all children: 0
+system time for all children: 0
+others(I/O): 58.230692 second
+query: 11
+=== runtime ===
+wall clock time: 15.478311
+user time: 0.01
+system time: 0
+user time for all children: 0
+system time for all children: 0.03
+others(I/O): 15.438311 second
+query: 12
+=== runtime ===
+wall clock time: 68.446453
+user time: 0.01
+system time: 0
+user time for all children: 0
+system time for all children: 0.02
+others(I/O): 68.416453 second
+query: 13
+=== runtime ===
+wall clock time: 170.802014
+user time: 0.01
+system time: 0
+user time for all children: 0
+system time for all children: 0.02
+others(I/O): 170.772014 second
+query: 14
+=== runtime ===
+wall clock time: 62.099121
+user time: 0.01
+system time: 0
+user time for all children: 0.01
+system time for all children: 0.02
+others(I/O): 62.059121 second
+query: 15
+=== runtime ===
+wall clock time: 102.699915
+user time: 0.02
+system time: 0
+user time for all children: 0
+system time for all children: 0.02
+others(I/O): 102.659915 second
+query: 16
+=== runtime ===
+wall clock time: 14.764389
+user time: 0.02
+system time: 0
+user time for all children: 0.02
+system time for all children: 0.02
+others(I/O): 14.704389 second
+query: 17
+=== runtime ===
+wall clock time: 8.965694
+user time: 0.01
+system time: 0
+user time for all children: 0.01
+system time for all children: 0
+others(I/O): 8.945694 second
+query: 19
+=== runtime ===
+wall clock time: 14.147099
+user time: 0.01
+system time: 0
+user time for all children: 0
+system time for all children: 0.02
+others(I/O): 14.117099 second
+query: 20
+=== runtime ===
+wall clock time: 60.611708
+user time: 0.01
+system time: 0
+user time for all children: 0
+system time for all children: 0.03
+others(I/O): 60.571708 second
+query: 21
+=== runtime ===
+wall clock time: 89.84059
+user time: 0.01
+system time: 0
+user time for all children: 0
+system time for all children: 0.02
+others(I/O): 89.810590 second
+query: 22
+=== runtime ===
+wall clock time: 3.440101
+user time: 0.01
+system time: 0
+user time for all children: 0.01
+system time for all children: 0.02
+others(I/O): 3.400101 second
